@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Ãï
+@
+java:S1068"*Remove this unused "imdbId" private field.(Š·‡œ
+D
+java:S1068")Remove this unused "title" private field.(åõò¹ıÿÿÿÿ
+J
+java:S1068"/Remove this unused "releaseDate" private field.(Ù‚ôİşÿÿÿÿ
+E
+java:S1068"/Remove this unused "trailerLink" private field.(é¯ÑÈ
+@
+java:S1068"*Remove this unused "poster" private field.(–ÏèÑ
+@
+java:S1068"*Remove this unused "genres" private field.(òˆº­
+C
+java:S1068"-Remove this unused "backdrops" private field.(¶Õü©

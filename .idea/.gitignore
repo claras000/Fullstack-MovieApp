@@ -1,0 +1,48 @@
+# Allgemein
+/node_modules/
+.DS_Store
+.env
+.idea/
+.vscode/
+*.iml
+*.log
+*.tmp
+*.swp
+*.swo
+
+# React Frontend
+/frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.parcel-cache/
+frontend/.next/
+frontend/.vercel/
+frontend/public/static/
+frontend/public/favicon.ico
+
+# Spring Maven Backend
+/backend/target/
+backend/.idea/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/logs/
+backend/*.log
+backend/tmp/
+
+# IntelliJ IDEA spezifisch
+/workspace.xml
+/shelf/
+httpRequests/
+dataSources/
+dataSources.local.xml
+
+# Sonstige IDE-spezifische Dateien
+*.bak
+*.orig
+*.rej
+
+# Betriebssystemspezifisch
+Thumbs.db
+desktop.ini
+
