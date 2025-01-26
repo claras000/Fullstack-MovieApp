@@ -1,4 +1,4 @@
-# Fullsatck CRUD App 
+# Fullstack CRUD App 
 ## Eine Movie Review App 
 
 ## Beschreibung
